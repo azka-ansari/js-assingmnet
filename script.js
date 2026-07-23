@@ -1,10 +1,11 @@
 //1st question 
 
+
 // function power(a, b) {
-//     let ans = 1;
+//     let ans = prompt("enter a number");
 //     for (let i = 1; i <= b; i++) {
 //         ans = ans * a;
-//     }
+//     }   
 //     document.write(ans);
 // }
 // power(2, 3);
